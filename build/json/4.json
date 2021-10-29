@@ -1,0 +1,23 @@
+{
+  "name": "BluBoyX NFT 4",
+  "image": "https://ipfs.io/ipfs/QmPdCq8TdVzFrZ7TuyYmX1QaJfJYua2fALaxsJtdbFvJSo/4.png",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": "0.01"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "10000"
+    },
+    {
+      "trait_type": "Privileges",
+      "value": "Access to land drops after the First & Founding BluBoyX, access to BluBoyX Discord channels, voting power"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "No"
+    }
+  ]
+}
